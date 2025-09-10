@@ -9,14 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="LLD\**" />
-    <Compile Remove="MVVM\**" />
-    <EmbeddedResource Remove="LLD\**" />
-    <EmbeddedResource Remove="MVVM\**" />
-    <None Remove="LLD\**" />
-    <None Remove="MVVM\**" />
-    <Page Remove="LLD\**" />
-    <Page Remove="MVVM\**" />
+    <Folder Include="LLD\DCD\" />
+    <Folder Include="LLD\SD\" />
+    <Folder Include="MVVM\Model\Classes\" />
+    <Folder Include="MVVM\Model\Repositories\" />
+    <Folder Include="MVVM\ViewModel\" />
+    <Folder Include="MVVM\View\" />
   </ItemGroup>
 
 </Project>
