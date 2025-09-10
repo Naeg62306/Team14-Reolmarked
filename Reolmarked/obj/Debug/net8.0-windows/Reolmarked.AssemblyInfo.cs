@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reolmarked")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a65abfb983d76c0f8224340566facd80ed7f82a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8117da09416b29c25e4d70f303669f2b987cb211")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reolmarked")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reolmarked")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
